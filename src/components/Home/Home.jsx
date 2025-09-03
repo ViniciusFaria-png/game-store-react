@@ -3,6 +3,8 @@ import Navbar from "components/Navbar/Navbar";
 import { Outlet } from "react-router-dom";
 import styles from "./Home.module.scss";
 
+
+
 export default function Home() {
   return (
     <div className={styles.container}>
