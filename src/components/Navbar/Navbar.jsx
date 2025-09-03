@@ -3,7 +3,7 @@ import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
 import classNames from "classnames";
 import { useIconProps } from "hooks/useIconProps";
 import { ReactComponent as Logo } from "../../assets/logo.svg";
-import Busca from "../Busca/index";
+import Busca from "../Busca/Busca";
 import styles from "./Navbar.module.scss";
 
 export default function Navbar() {

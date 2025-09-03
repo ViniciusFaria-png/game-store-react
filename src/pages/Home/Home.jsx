@@ -1,5 +1,5 @@
 import jogo from "assets/inicial.png";
-import Header from "components/Header";
+import Header from "components/Header/Header";
 import styles from "./Home.module.scss";
 export default function HomePage() {
   return (
